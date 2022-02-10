@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">TasarimOdevi</string>
+    <string name="eTrade">E-Trade</string>
+    <string name="smartPhone">Smart Phone</string>
+    <string name="description">Free Shipping Two Years Official Warranty Postpaid</string>
+    <string name="numberOfLike">4.0</string>
+    <string name="comment">100 Comment</string>
+    <string name="question"><![CDATA[10 Q&A]]></string>
+    <string name="like">Like</string>
+    <string name="addToCart">ADD TO CART</string>
+    <string name="buy">BUY</string>
+    <string name="price">$ 200</string>
+</resources>

@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">TasarimOdevi</string>
+    <string name="eTrade">E-Ticaret</string>
+    <string name="smartPhone">Akıllı Telefon</string>
+    <string name="description">Ücretsiz Kargo, İki Yıl Garanti, Faturalı</string>
+    <string name="numberOfLike">4.0</string>
+    <string name="comment">100 Yorum</string>
+    <string name="question">10 Soru</string>
+    <string name="like">Beğen</string>
+    <string name="addToCart">SEPETE EKLE</string>
+    <string name="buy">HEMEN AL</string>
+    <string name="price">2500 ₺</string>
+</resources>
